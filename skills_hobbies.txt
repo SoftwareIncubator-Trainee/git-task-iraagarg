@@ -1,0 +1,14 @@
+Skills:
+- C
+- C++
+- HTML & CSS
+- Javascript
+- OOPS
+- SQL
+- CP & DSA skills
+- Problem Solving
+
+Hobbies:
+- Singing
+- Playing guitar
+- Coding challenges
