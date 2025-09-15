@@ -1,0 +1,7 @@
+Hello, my name is Iraa Garg.  
+I am a second-year B.Tech student pursuing CSE(DS) at AKGEC.  
+My current tech stack includes C, C++, HTML, CSS, and JavaScript.  
+I am working as a frontend developer and aspiring to become a full-stack developer.  
+I have strong skills in Competitive Programming and DSA, with over 150 problems solved across platforms like CodeChef, Codeforces, and AtCoder.  
+I enjoy tackling challenging problems and continuously learning new technologies to improve my programming and development skills.
+My hobbies include singing and playing guitar.
